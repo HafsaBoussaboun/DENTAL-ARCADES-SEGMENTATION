@@ -7,7 +7,7 @@ export default function About() {
                     <div className="row">
                         <div className="col-md-3 col-sm-4 col-xs-12">
                         <div className="section-title">
-                            <h2 className="head-title lg-line">Why Dental Arcades Segmentation </h2>
+                            <h2 className="head-title lg-line">Why Dental Arcades Segmentation ????????? </h2>
                             <hr className="botm-line"/>
                             
                         </div>
